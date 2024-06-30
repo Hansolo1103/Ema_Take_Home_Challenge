@@ -1,0 +1,14 @@
+streamlit-mic-recorder
+langchain
+langchain_community
+streamlit
+chromadb
+pyyaml
+librosa
+torchaudio
+sentence_transformers
+ipex-llm
+llama-cpp-python
+torch
+ctransformers
+io
